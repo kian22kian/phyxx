@@ -1,0 +1,1 @@
+This is a test file uploaded via Lua script with custom Base64 encoding.
