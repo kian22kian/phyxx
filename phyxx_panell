@@ -3,7 +3,8 @@
   "activate_script": true,
   "blacklist_user": true,
   "whitelisted": [
-    "6060637155,unknownperson_huhu"
+    "6060637155,unknownperson_huhu",
+    "17893017,ethan_jcd"
   ],
   "blacklisted": [
     "3148551989,RAXandBAX",
