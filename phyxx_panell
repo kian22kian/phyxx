@@ -1,0 +1,12 @@
+{
+  "use_whitelist": false,
+  "activate_script": true,
+  "blacklist_user": true,
+  "whitelisted": [
+    "6060637155,unknownperson_huhu"
+  ],
+  "blacklisted": [
+    "3148551989,RAXandBAX",
+    "14,h"
+  ]
+}
